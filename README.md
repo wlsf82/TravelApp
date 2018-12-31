@@ -18,7 +18,7 @@ Run `rake db:migrate && rake db:seed` to migrate and seed the database.
 
 After the rails server is started and the database is configured, access the following URL in your preferable web browser: http://localhost:3000/tags
 
-You should see something like the below samples.
+While navigating through the app you should see something like the below samples.
 
 ![Travel App Home](./travel-app-home.png)
 ![Travel App Tag](./travel-app-tag.png)
