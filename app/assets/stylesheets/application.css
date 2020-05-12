@@ -145,6 +145,10 @@ h2 a {
   transition: border 0.5s;
 }
 
+.destination .field_with_errors input {
+  border-color: red;
+}
+
 /* Grid */
 
 * {
