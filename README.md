@@ -26,3 +26,7 @@ While navigating through the app you should see something like the below samples
 ![Travel App Destination Edit 1](./travel-app-destination-edit-1.png)
 ![Travel App Destination Edit 2](./travel-app-destination-edit-2.png)
 ![Travel App Destination 2](./travel-app-destination-2.png)
+
+## Accessing the app on Heroku
+
+You can find the deployed sample app on Heroku through the following URL: https://lit-chamber-61567.herokuapp.com/destinations/1
