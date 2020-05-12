@@ -29,4 +29,4 @@ While navigating through the app you should see something like the below samples
 
 ## Accessing the app on Heroku
 
-You can find the deployed sample app on Heroku through the following URL: https://lit-chamber-61567.herokuapp.com/destinations/1
+You can find the deployed sample app on Heroku through the following URL: https://lit-chamber-61567.herokuapp.com/
