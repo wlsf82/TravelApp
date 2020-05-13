@@ -149,6 +149,11 @@ h2 a {
   border-color: red;
 }
 
+.actions input {
+  background-color:  #00217f;
+  color: #fff;
+}
+
 /* Grid */
 
 * {
